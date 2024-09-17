@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, #2e0570, #452de2);
+}
+
+.quizz{
+ text-align: center;
+ background-image: linear-gradient(to right, #2e0570,#4732d1);
+ display: block;
+ border-radius: 7px;
+ 
+}
+
+p h2{
+    text-align: center;
+    color: azure;
+
+}
