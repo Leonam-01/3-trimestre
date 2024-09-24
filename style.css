@@ -1,15 +1,45 @@
 body{
-    background-image: linear-gradient(to right, #2e0570, #452de2);
+    background-color:rgb(206, 206, 206);
 }
 
-.quizz{
+div{
+    display: inline-block;
+    margin: 1rem 1rem;
+}
+
+#quizz1{
+ margin: left;
  text-align: center;
- background-image: linear-gradient(to right, #2e0570,#4732d1);
- display: block;
+ width: 450px;
+ background-color: rgb(158, 158, 158);
  border-radius: 7px;
  
 }
 
+#quizz2{
+    margin: center;
+    text-align: center;
+    width: 450px;
+    background-color: rgb(158, 158, 158);
+    border-radius: 7px;
+    
+   }
+ 
+   #quizz3{
+    margin: right;
+    text-align: center;
+    width: 450px;
+    background-color: rgb(158, 158, 158);
+    border-radius: 7px;
+   }
+  
+   #quizz4{
+    text-align: center;
+    width: 450px;
+    background-color: rgb(158, 158, 158);
+    border-radius: 7px;
+    
+   }
 p h2{
     text-align: center;
     color: azure;
