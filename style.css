@@ -4,13 +4,14 @@ body{
 
 .container{
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+     margin: 0 auto;
+     padding: 10px;
+   
 }
 
-div{
-    display: inline-block;
-    margin: 1rem 1rem;
-}
+
 
 #quizz1{
  margin: left;
@@ -22,6 +23,7 @@ div{
 }
 
 #quizz2{
+
     margin: center;
     text-align: center;
     width: 450px;
@@ -31,6 +33,7 @@ div{
    }
  
    #quizz3{
+  
     margin: right;
     text-align: center;
     width: 450px;
@@ -39,12 +42,51 @@ div{
    }
   
    #quizz4{
+   
     text-align: center;
     width: 450px;
     background-color: rgb(158, 158, 158);
     border-radius: 7px;
     
    }
+
+   #quizz5{
+   
+    margin: left;
+    text-align: center;
+    width: 450px;
+    background-color: rgb(158, 158, 158);
+    border-radius: 7px;
+    
+   }
+   
+   #quizz6{
+
+       margin: center;
+       text-align: center;
+       width: 450px;
+       background-color: rgb(158, 158, 158);
+       border-radius: 7px;
+       
+      }
+    
+      #quizz7{
+  
+       margin: right;
+       text-align: center;
+       width: 450px;
+       background-color: rgb(158, 158, 158);
+       border-radius: 7px;
+      }
+     
+      #quizz8{
+       
+       text-align: center;
+       width: 450px;
+       background-color: rgb(158, 158, 158);
+       border-radius: 7px;
+       
+      }
 p h2{
     text-align: center;
     color: azure;
