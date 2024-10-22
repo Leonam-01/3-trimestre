@@ -2,6 +2,11 @@ body{
     background-color:rgb(206, 206, 206);
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+}
+
 div{
     display: inline-block;
     margin: 1rem 1rem;
