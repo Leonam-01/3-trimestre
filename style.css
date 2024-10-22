@@ -1,8 +1,9 @@
 body{
-    background-color:rgb(112, 114, 116);
+   background-image: linear-gradient(to left, black, rgb(5, 5, 141));
 }
 
 .container{
+    color: aliceblue;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -17,6 +18,7 @@ body{
 
 
 #quizz1{
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
  margin: left;
  text-align: center;
  width: 450px;
@@ -26,7 +28,7 @@ body{
 }
 
 #quizz2{
-
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
     margin: center;
     text-align: center;
     width: 450px;
@@ -36,7 +38,7 @@ body{
    }
  
    #quizz3{
-  
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
     margin: right;
     text-align: center;
     width: 450px;
@@ -45,7 +47,7 @@ body{
    }
   
    #quizz4{
-   
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
     text-align: center;
     width: 450px;
     background-color: rgb(158, 158, 158);
@@ -54,7 +56,7 @@ body{
    }
 
    #quizz5{
-   
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
     margin: left;
     text-align: center;
     width: 450px;
@@ -64,7 +66,7 @@ body{
    }
    
    #quizz6{
-
+    background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
        margin: center;
        text-align: center;
        width: 450px;
@@ -74,7 +76,7 @@ body{
       }
     
       #quizz7{
-  
+        background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
        margin: right;
        text-align: center;
        width: 450px;
@@ -83,7 +85,7 @@ body{
       }
      
       #quizz8{
-       
+        background-image: linear-gradient(to left, rgb(5, 5, 117), rgb(5, 5, 141));
        text-align: center;
        width: 450px;
        background-color: rgb(158, 158, 158);
